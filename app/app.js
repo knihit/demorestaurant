@@ -1,9 +1,9 @@
 'use strict'
 
-var _appodule = angular.module('DemoRestaurantApp', [
+var _appmodule = angular.module('DemoRestaurantApp', [
 	'ngRoute']);
 
-_appodule.config(function ($routeProvider) {
+_appmodule.config(function ($routeProvider) {
 	$routeProvider
 		.when ('/home', {
 			templateUrl: '',

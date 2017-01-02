@@ -1,0 +1,418 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pet",
+				"petStoreAPIService"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"sele",
+				"selectedMovie"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/index.html",
+			"settings":
+			{
+				"buffer_size": 5237,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/package.json",
+			"settings":
+			{
+				"buffer_size": 577,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/app.js",
+			"settings":
+			{
+				"buffer_size": 211,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/components/home/controllers.js",
+			"settings":
+			{
+				"buffer_size": 36,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "'use strict'"
+			}
+		},
+		{
+			"file": "app/components/home/meuitem.json",
+			"settings":
+			{
+				"buffer_size": 74,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 342.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 414.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/angular/git/demorestaurant",
+		"/home/angular/git/demorestaurant/app",
+		"/home/angular/git/demorestaurant/app/components",
+		"/home/angular/git/demorestaurant/app/components/home"
+	],
+	"file_history":
+	[
+		"/home/angular/workspace/newpetstore/infaspects-petstore/src/main/resources/static/app/index.html",
+		"/home/angular/workspace/newpetstore/infaspects-petstore/src/main/resources/static/app/js/app.js",
+		"/home/angular/workspace/newpetstore/infaspects-petstore/src/main/resources/static/app/js/controller.js",
+		"/home/angular/workspace/newpetstore/infaspects-petstore/src/main/resources/static/app/js/services.js",
+		"/home/angular/workspace/newpetstore/infaspects-petstore/src/main/resources/static/app/bower.json",
+		"/home/angular/workspace/newpetstore/infaspects-petstore/src/main/resources/static/app/package.json",
+		"/home/angular/workspace/newpetstore/infaspects-petstore/src/main/resources/static/app/karma.conf.js",
+		"/home/angular/scalaprj/src/main/scala/First.scala",
+		"/home/angular/Documents/AngularJS Essentials/08 - Testing AngularJS/lab/Before/Public/index.html",
+		"/home/angular/Documents/AngularJS Essentials/08 - Testing AngularJS/lab/Before/Public/App/App.js",
+		"/home/angular/Documents/AngularJS Essentials/08 - Testing AngularJS/lab/Before/Public/App/MyData.js",
+		"/home/angular/Documents/AngularJS Essentials/08 - Testing AngularJS/lab/Before/Public/Templates/PersonEditor.html",
+		"/home/angular/Documents/AngularJS Essentials/08 - Testing AngularJS/lab/Before/Public/Templates/PeopleList.html",
+		"/home/angular/Documents/AngularJS Essentials/05 - Data entry using AngularJS/lab/Before/Public/index.html",
+		"/home/angular/Documents/AngularJS Essentials/05 - Data entry using AngularJS/lab/Before/server/movies.js",
+		"/home/angular/Documents/AngularJS Essentials/05 - Data entry using AngularJS/lab/Before/Public/Templates/movieEditor.html",
+		"/home/angular/Documents/AngularJS Essentials/04 - AngularJS and AJAX/lab/Before/Public/index.html",
+		"/home/angular/Documents/AngularJS Essentials/04 - AngularJS and AJAX/lab/Before/Public/Templates/movieEditor.html",
+		"/home/angular/Documents/AngularJS Essentials/04 - AngularJS and AJAX/lab/Before/Public/App/MyData.js",
+		"/home/angular/Documents/AngularJS Essentials/04 - AngularJS and AJAX/lab/Before/Public/Templates/movieList.html",
+		"/home/angular/Documents/AngularJS Essentials/03 - Services & Factories/lab/Before/Public/App/App.js",
+		"/home/angular/Documents/AngularJS Essentials/03 - Services & Factories/lab/Before/Public/App/Directors.js",
+		"/home/angular/Documents/AngularJS Essentials/03 - Services & Factories/lab/Before/Public/App/Countries.js",
+		"/home/angular/Documents/AngularJS Essentials/03 - Services & Factories/lab/Before/Public/App/Movies.js",
+		"/home/angular/Documents/AngularJS Essentials/03 - Services & Factories/lab/Before/Public/Templates/PersonEditor.html",
+		"/home/angular/Documents/AngularJS Essentials/03 - Services & Factories/lab/Before/Public/Templates/PeopleList.html",
+		"/home/angular/Documents/AngularJS Essentials/02 - AngularJS/lab/Before/bower.json",
+		"/home/angular/Documents/AngularJS Essentials/02 - AngularJS/lab/Before/Public/App/App.js",
+		"/home/angular/Documents/AngularJS Essentials/02 - AngularJS/lab/Before/Public/App/Movies.js",
+		"/home/angular/Documents/AngularJS Essentials/02 - AngularJS/lab/Before/Public/App/Countries.js",
+		"/home/angular/Documents/AngularJS Essentials/02 - AngularJS/lab/Before/Public/App/Directors.js",
+		"/home/angular/Documents/AngularJS Essentials/02 - AngularJS/lab/Before/Public/index.html",
+		"/home/angular/.config/sublime-text-3/Packages/User/Distraction Free.sublime-settings"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"_appodule"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"_appmodule"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "/home/angular/git/demorestaurant"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5237,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 577,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 211,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								207,
+								207
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/components/home/controllers.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 36,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								19,
+								19
+							]
+						],
+						"settings":
+						{
+							"auto_name": "'use strict'",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/components/home/meuitem.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 74,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								74,
+								74
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 232.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
