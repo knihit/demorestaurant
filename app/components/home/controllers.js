@@ -1,3 +1,6 @@
 'use strict'
 
-var _controllermodule
+angular.module('RestaurantApp.home.controller', [])
+	.controller('menuController', ['$scope', function(){
+		
+	}]);
