@@ -1,7 +1,16 @@
 [{
 	"title": "Home",
-	"url": "/"
+	"url": "#/"
 }, {
 	"title": "Menu",
 	"url": "/menu"
+}, {
+	"title": "Catalogue",
+	"url": "/catalogue"
+}, {
+	"title": "FAQ",
+	"url": "/faq"
+}, {
+	"title": "Contact",
+	"url": "/contact"
 }]

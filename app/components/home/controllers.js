@@ -1,6 +1,6 @@
 'use strict'
 
 angular.module('RestaurantApp.home.controller', [])
-	.controller('menuController', ['$scope', function(){
-		
-	}]);
+	.controller('menuController', function($scope, menuService){
+		$scope.menus = menuService.getMenuItems();
+	});

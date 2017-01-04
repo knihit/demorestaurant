@@ -2,6 +2,7 @@
 
 angular.module('RestaurantApp', [
 	'RestaurantApp.home.controller',
+	'RestaurantApp.home.services',
 	'ngRoute'
 ]).config(function ($routeProvider) {
 	console.log("entering routing");
